@@ -1,12 +1,9 @@
 {
   "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true,
-    "node_modules": true,
-    "dist": true
+    "**/.git": false,
+    "**/.DS_Store": true
+    // "node_modules": true,
+    // "dist": true
   },
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
